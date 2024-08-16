@@ -1,0 +1,54 @@
+{
+  "today": {
+    "biogasProduction": {
+      "label": "3000Kg",
+      "series": [76]
+    },
+    "manureProduction": {
+      "label": "12000Kg",
+      "series": [67]
+    },
+    "temprature": {
+      "value": 55,
+      "label": "Digester"
+    },
+    "vehicleMovements": {
+      "name": "Count",
+      "data": [17, 13, 3, 9],
+      "categories": ["Grass", "Cascade", "Fertilizer", "Liquid Fertilizer"]
+    },
+    "liveActivity": {
+      "feed": true,
+      "digester": false,
+      "purification": true,
+      "compression": false,
+      "serverConnectivity": true
+    }
+  },
+  "weekly": {
+    "biogasProduction": {
+      "label": "8000Kg",
+      "series": [50]
+    },
+    "manureProduction": {
+      "label": "16000Kg",
+      "series": [60]
+    },
+    "temprature": {
+      "value": 55,
+      "label": "Digester"
+    },
+    "vehicleMovements": {
+      "name": "Count",
+      "data": [170, 138, 123, 78],
+      "categories": ["Grass", "Cascade", "Fertilizer", "Liquid Fertilizer"]
+    },
+    "liveActivity": {
+      "feed": true,
+      "digester": false,
+      "purification": true,
+      "compression": false,
+      "serverConnectivity": true
+    }
+  }
+}
