@@ -1,17 +1,8 @@
 {
   "today": {
-    "biogasProduction": {
-      "label": "3000Kg",
-      "series": [76]
-    },
-    "manureProduction": {
-      "label": "12000Kg",
-      "series": [67]
-    },
-    "temprature": {
-      "value": 55,
-      "label": "Digester"
-    },
+    "biogasProduction": [76],
+    "manureProduction": [67],
+    "temprature":  55,
     "vehicleMovements": {
       "name": "Count",
       "data": [17, 13, 3, 9],
