@@ -53,7 +53,7 @@
   },
    "monthly": {
     "biogasProduction": {
-      "label": "8000Kg",
+      "label": "10000Kg",
       "series": 45
     },
     "manureProduction": {
@@ -79,7 +79,7 @@
   },
   "yearly": {
     "biogasProduction": {
-      "label": "8000Kg",
+      "label": "88000Kg",
       "series": 58
     },
     "manureProduction": {
