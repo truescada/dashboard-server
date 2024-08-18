@@ -14,7 +14,7 @@
     },
     "vehicleMovements": {
       "name": "Count",
-      "data": [17, 13, 3, 9],
+      "data": [7, 3, 3, 9],
       "categories": ["Grass", "Cascade", "Fertilizer", "Liquid Fertilizer"]
     },
     "liveActivity": {
@@ -40,7 +40,7 @@
     },
     "vehicleMovements": {
       "name": "Count",
-      "data": [170, 138, 123, 78],
+      "data": [17, 13, 12, 8],
       "categories": ["Grass", "Cascade", "Fertilizer", "Liquid Fertilizer"]
     },
     "liveActivity": {
@@ -66,7 +66,7 @@
     },
     "vehicleMovements": {
       "name": "Count",
-      "data": [170, 138, 123, 78],
+      "data": [70, 38, 23, 78],
       "categories": ["Grass", "Cascade", "Fertilizer", "Liquid Fertilizer"]
     },
     "liveActivity": {
