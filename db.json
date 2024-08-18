@@ -2,11 +2,11 @@
   "today": {
     "biogasProduction": {
       "label": "3000Kg",
-      "series": [76]
+      "series": 76
     },
     "manureProduction": {
       "label": "12000Kg",
-      "series": [67]
+      "series": 67
     },
     "temprature": {
       "value": 55,
