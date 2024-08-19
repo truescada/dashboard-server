@@ -23,6 +23,9 @@
       "purification": true,
       "compression": false,
       "serverConnectivity": true
+    },
+    "alerts": {
+      data: [2,1,3,5]
     }
   },
   "weekly": {
@@ -49,6 +52,9 @@
       "purification": true,
       "compression": false,
       "serverConnectivity": true
+    },
+    "alerts": {
+      data: [6,5,8,5]
     }
   },
    "monthly": {
@@ -75,6 +81,9 @@
       "purification": true,
       "compression": false,
       "serverConnectivity": true
+    },
+    "alerts": {
+      data: [16,15,81,100]
     }
   },
   "yearly": {
@@ -92,7 +101,7 @@
     },
     "vehicleMovements": {
       "name": "Count",
-      "data": [170, 138, 123, 78],
+      "data": [250, 380, 203, 478],
       "categories": ["Grass", "Cascade", "Fertilizer", "Liquid Fertilizer"]
     },
     "liveActivity": {
@@ -101,6 +110,9 @@
       "purification": true,
       "compression": false,
       "serverConnectivity": true
+    },
+    "alerts": {
+      data: [2500,5150,6810,5540]
     }
   }
 }
