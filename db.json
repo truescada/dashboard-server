@@ -25,99 +25,13 @@
       "serverConnectivity": true
     },
     "alerts": {
-      "data": [2, 1, 3, 5]
+      "data": [2,1,3,5]
     },
     "tickets": {
-      "data": [3, 5, 4, 8]
+      "data": [3,5,4,8]
     },
     "input": {
-      "data": [
-        {
-          "x": "Press Mud",
-          "y": 25,
-          "goals": [
-            {
-              "name": "Expected",
-              "value": 30
-            }
-          ]
-        },
-        {
-          "x": "Poultry Waste",
-          "y": 14,
-          "goals": [
-            {
-              "name": "Expected",
-              "value": 30
-            }
-          ]
-        },
-        {
-          "x": "Cow Dung",
-          "y": 18,
-          "goals": [
-            {
-              "name": "Expected",
-              "value": 20
-            }
-          ]
-        },
-        {
-          "x": "Recycled Water",
-          "y": 55,
-          "goals": [
-            {
-              "name": "Expected",
-              "value": 50
-            }
-          ]
-        },
-        {
-          "x": "Dist. Waste",
-          "y": 1,
-          "goals": [
-            {
-              "name": "Expected",
-              "value": 10
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "weekly": {
-    "biogasProduction": {
-      "label": "8000Kg",
-      "series": 50
-    },
-    "manureProduction": {
-      "label": "16000Kg",
-      "series": 60
-    },
-    "temprature": {
-      "value": 55,
-      "label": "Digester"
-    },
-    "vehicleMovements": {
-      "name": "Count",
-      "data": [17, 13, 12, 8],
-      "categories": ["Grass", "Cascade", "Fertilizer", "Liquid Fertilizer"]
-    },
-    "liveActivity": {
-      "feed": true,
-      "digester": false,
-      "purification": true,
-      "compression": false,
-      "serverConnectivity": true
-    },
-    "alerts": {
-      "data": [6, 5, 8, 5]
-    },
-    "tickets": {
-      "data": [13, 15, 41, 28]
-    },
-    "input": {
-      "data": [
+       "data": [
         {
           "x": "Press Mud",
           "y": 25,
@@ -130,7 +44,7 @@
           ]
         },
         {
-          "x": "Poultry Waste",
+          "x":  "Poultry Waste",
           "y": 14,
           "goals": [
             {
@@ -176,7 +90,98 @@
       ]
     }
   },
-  "monthly": {
+  "weekly": {
+    "biogasProduction": {
+      "label": "8000Kg",
+      "series": 50
+    },
+    "manureProduction": {
+      "label": "16000Kg",
+      "series": 60
+    },
+    "temprature": {
+      "value": 55,
+      "label": "Digester"
+    },
+    "vehicleMovements": {
+      "name": "Count",
+      "data": [17, 13, 12, 8],
+      "categories": ["Grass", "Cascade", "Fertilizer", "Liquid Fertilizer"]
+    },
+    "liveActivity": {
+      "feed": true,
+      "digester": false,
+      "purification": true,
+      "compression": false,
+      "serverConnectivity": true
+    },
+    "alerts": {
+      "data": [6,5,8,5]
+    },
+    "tickets": {
+      "data": [13,15,41,28]
+    },
+     "input": {
+       "data": [
+        {
+          "x": "Press Mud",
+          "y": 25,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 30,
+              "strokeHeight": 5
+            }
+          ]
+        },
+        {
+          "x":  "Poultry Waste",
+          "y": 14,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 30,
+              "strokeHeight": 5
+            }
+          ]
+        },
+        {
+          "x": "Cow Dung",
+          "y": 18,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 20,
+              "strokeHeight": 5
+            }
+          ]
+        },
+        {
+          "x": "Recycled Water",
+          "y": 55,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 50,
+              "strokeHeight": 5
+            }
+          ]
+        },
+        {
+          "x": "Dist. Waste",
+          "y": 1,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 10,
+              "strokeHeight": 5
+            }
+          ]
+        }
+      ]
+    }
+  },
+   "monthly": {
     "biogasProduction": {
       "label": "10000Kg",
       "series": 45
@@ -202,13 +207,13 @@
       "serverConnectivity": true
     },
     "alerts": {
-      "data": [16, 15, 81, 100]
+      "data": [16,15,81,100]
     },
     "tickets": {
-      "data": [130, 125, 419, 238]
+      "data": [130,125,419,238]
     },
-    "input": {
-      "data": [
+     "input": {
+       "data": [
         {
           "x": "Press Mud",
           "y": 25,
@@ -221,7 +226,7 @@
           ]
         },
         {
-          "x": "Poultry Waste",
+          "x":  "Poultry Waste",
           "y": 14,
           "goals": [
             {
@@ -293,13 +298,13 @@
       "serverConnectivity": true
     },
     "alerts": {
-      "data": [2500, 5150, 6810, 5540]
+      "data": [2500,5150,6810,5540]
     },
     "tickets": {
-      "data": [1350, 1257, 4195, 2383]
+      "data": [1350,1257,4195,2383]
     },
-    "input": {
-      "data": [
+     "input": {
+       "data": [
         {
           "x": "Press Mud",
           "y": 25,
@@ -312,7 +317,7 @@
           ]
         },
         {
-          "x": "Poultry Waste",
+          "x":  "Poultry Waste",
           "y": 14,
           "goals": [
             {
