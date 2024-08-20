@@ -125,55 +125,55 @@
        "data": [
         {
           "x": "Press Mud",
-          "y": 25,
+          "y": 125,
           "goals": [
             {
               "name": "Expected",
-              "value": 30,
+              "value": 170,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x":  "Poultry Waste",
-          "y": 14,
+          "y": 140,
           "goals": [
             {
               "name": "Expected",
-              "value": 30,
+              "value": 310,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x": "Cow Dung",
-          "y": 18,
+          "y": 180,
           "goals": [
             {
               "name": "Expected",
-              "value": 20,
+              "value": 200,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x": "Recycled Water",
-          "y": 55,
+          "y": 550,
           "goals": [
             {
               "name": "Expected",
-              "value": 50,
+              "value": 500,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x": "Dist. Waste",
-          "y": 1,
+          "y": 10,
           "goals": [
             {
               "name": "Expected",
-              "value": 10,
+              "value": 60,
               "strokeHeight": 5
             }
           ]
@@ -216,55 +216,55 @@
        "data": [
         {
           "x": "Press Mud",
-          "y": 25,
+          "y": 2500,
           "goals": [
             {
               "name": "Expected",
-              "value": 30,
+              "value": 3000,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x":  "Poultry Waste",
-          "y": 14,
+          "y": 4514,
           "goals": [
             {
               "name": "Expected",
-              "value": 30,
+              "value": 7830,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x": "Cow Dung",
-          "y": 18,
+          "y": 1988,
           "goals": [
             {
               "name": "Expected",
-              "value": 20,
+              "value": 2760,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x": "Recycled Water",
-          "y": 55,
+          "y": 1550,
           "goals": [
             {
               "name": "Expected",
-              "value": 50,
+              "value": 1450,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x": "Dist. Waste",
-          "y": 1,
+          "y": 1000,
           "goals": [
             {
               "name": "Expected",
-              "value": 10,
+              "value": 2310,
               "strokeHeight": 5
             }
           ]
@@ -307,44 +307,44 @@
        "data": [
         {
           "x": "Press Mud",
-          "y": 25,
+          "y": 25768,
           "goals": [
             {
               "name": "Expected",
-              "value": 30,
+              "value": 34630,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x":  "Poultry Waste",
-          "y": 14,
+          "y": 12714,
           "goals": [
             {
               "name": "Expected",
-              "value": 30,
+              "value": 13030,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x": "Cow Dung",
-          "y": 18,
+          "y": 90718,
           "goals": [
             {
               "name": "Expected",
-              "value": 20,
+              "value": 56020,
               "strokeHeight": 5
             }
           ]
         },
         {
           "x": "Recycled Water",
-          "y": 55,
+          "y": 21755,
           "goals": [
             {
               "name": "Expected",
-              "value": 50,
+              "value": 41550,
               "strokeHeight": 5
             }
           ]
