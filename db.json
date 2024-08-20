@@ -33,55 +33,55 @@
     "input": {
        "data": [
         {
-          "x": 'Press Mud',
+          "x": "Press Mud",
           "y": 25,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 30,
               "strokeHeight": 5,
             }
           ]
         },
         {
-          "x": 'Poultry Waste',
+          "x":  "Poultry Waste",
           "y": 14,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 30,
               "strokeHeight": 5,
             }
           ]
         },
         {
-          "x": 'Cow Dung',
+          "x": "Cow Dung",
           "y": 18,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 20,
               "strokeHeight": 5,
             }
           ]
         },
         {
-          "x": 'Recycled Water',
+          "x": "Recycled Water",
           "y": 55,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 50,
               "strokeHeight": 5,
             }
           ]
         },
         {
-          "x": 'Dist. Waste',
+          "x": "Dist. Waste",
           "y": 1,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 10,
               "strokeHeight": 5,
             }
@@ -120,6 +120,65 @@
     },
     "tickets": {
       "data": [13,15,41,28]
+    },
+     "input": {
+       "data": [
+        {
+          "x": "Press Mud",
+          "y": 25,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 30,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+        {
+          "x":  "Poultry Waste",
+          "y": 14,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 30,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+        {
+          "x": "Cow Dung",
+          "y": 18,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 20,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+        {
+          "x": "Recycled Water",
+          "y": 55,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 50,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+        {
+          "x": "Dist. Waste",
+          "y": 1,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 10,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+      ]
     }
   },
    "monthly": {
@@ -153,58 +212,58 @@
     "tickets": {
       "data": [130,125,419,238]
     },
-    "input": {
+     "input": {
        "data": [
         {
-          "x": 'Press Mud',
+          "x": "Press Mud",
           "y": 25,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 30,
               "strokeHeight": 5,
             }
           ]
         },
         {
-          "x": 'Poultry Waste',
+          "x":  "Poultry Waste",
           "y": 14,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 30,
               "strokeHeight": 5,
             }
           ]
         },
         {
-          "x": 'Cow Dung',
+          "x": "Cow Dung",
           "y": 18,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 20,
               "strokeHeight": 5,
             }
           ]
         },
         {
-          "x": 'Recycled Water',
+          "x": "Recycled Water",
           "y": 55,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 50,
               "strokeHeight": 5,
             }
           ]
         },
         {
-          "x": 'Dist. Waste',
+          "x": "Dist. Waste",
           "y": 1,
           "goals": [
             {
-              "name": 'Expected',
+              "name": "Expected",
               "value": 10,
               "strokeHeight": 5,
             }
@@ -243,6 +302,65 @@
     },
     "tickets": {
       "data": [1350,1257,4195,2383]
+    },
+     "input": {
+       "data": [
+        {
+          "x": "Press Mud",
+          "y": 25,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 30,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+        {
+          "x":  "Poultry Waste",
+          "y": 14,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 30,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+        {
+          "x": "Cow Dung",
+          "y": 18,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 20,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+        {
+          "x": "Recycled Water",
+          "y": 55,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 50,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+        {
+          "x": "Dist. Waste",
+          "y": 1,
+          "goals": [
+            {
+              "name": "Expected",
+              "value": 10,
+              "strokeHeight": 5,
+            }
+          ]
+        },
+      ]
     }
   }
 }
