@@ -38,7 +38,7 @@
           "goals": [
             {
               "name": "Expected",
-              "value": 30,
+              "value": 30
             }
           ]
         },
@@ -48,7 +48,7 @@
           "goals": [
             {
               "name": "Expected",
-              "value": 30,
+              "value": 30
             }
           ]
         },
@@ -58,7 +58,7 @@
           "goals": [
             {
               "name": "Expected",
-              "value": 20,
+              "value": 20
             }
           ]
         },
@@ -68,7 +68,7 @@
           "goals": [
             {
               "name": "Expected",
-              "value": 50,
+              "value": 50
             }
           ]
         },
@@ -78,7 +78,7 @@
           "goals": [
             {
               "name": "Expected",
-              "value": 10,
+              "value": 10
             }
           ]
         }
