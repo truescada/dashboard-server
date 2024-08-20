@@ -31,59 +31,59 @@
       "data": [3,5,4,8]
     },
     "input": {
-       data: [
+       "data": [
         {
-          x: 'Press Mud',
-          y: 25,
-          goals: [
+          "x": 'Press Mud',
+          "y": 25,
+          "goals": [
             {
-              name: 'Expected',
-              value: 30,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 30,
+              "strokeHeight": 5,
             }
           ]
         },
         {
-          x: 'Poultry Waste',
-          y: 14,
-          goals: [
+          "x": 'Poultry Waste',
+          "y": 14,
+          "goals": [
             {
-              name: 'Expected',
-              value: 30,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 30,
+              "strokeHeight": 5,
             }
           ]
         },
         {
-          x: 'Cow Dung',
-          y: 18,
-          goals: [
+          "x": 'Cow Dung',
+          "y": 18,
+          "goals": [
             {
-              name: 'Expected',
-              value: 20,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 20,
+              "strokeHeight": 5,
             }
           ]
         },
         {
-          x: 'Recycled Water',
-          y: 55,
-          goals: [
+          "x": 'Recycled Water',
+          "y": 55,
+          "goals": [
             {
-              name: 'Expected',
-              value: 50,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 50,
+              "strokeHeight": 5,
             }
           ]
         },
         {
-          x: 'Dist. Waste',
-          y: 1,
-          goals: [
+          "x": 'Dist. Waste',
+          "y": 1,
+          "goals": [
             {
-              name: 'Expected',
-              value: 10,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 10,
+              "strokeHeight": 5,
             }
           ]
         },
@@ -153,60 +153,60 @@
     "tickets": {
       "data": [130,125,419,238]
     },
-     "input": {
-       data: [
+    "input": {
+       "data": [
         {
-          x: 'Press Mud',
-          y: 250,
-          goals: [
+          "x": 'Press Mud',
+          "y": 25,
+          "goals": [
             {
-              name: 'Expected',
-              value: 301,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 30,
+              "strokeHeight": 5,
             }
           ]
         },
         {
-          x: 'Poultry Waste',
-          y: 140,
-          goals: [
+          "x": 'Poultry Waste',
+          "y": 14,
+          "goals": [
             {
-              name: 'Expected',
-              value: 330,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 30,
+              "strokeHeight": 5,
             }
           ]
         },
         {
-          x: 'Cow Dung',
-          y: 108,
-          goals: [
+          "x": 'Cow Dung',
+          "y": 18,
+          "goals": [
             {
-              name: 'Expected',
-              value: 209,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 20,
+              "strokeHeight": 5,
             }
           ]
         },
         {
-          x: 'Recycled Water',
-          y: 155,
-          goals: [
+          "x": 'Recycled Water',
+          "y": 55,
+          "goals": [
             {
-              name: 'Expected',
-              value: 250,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 50,
+              "strokeHeight": 5,
             }
           ]
         },
         {
-          x: 'Dist. Waste',
-          y: 51,
-          goals: [
+          "x": 'Dist. Waste',
+          "y": 1,
+          "goals": [
             {
-              name: 'Expected',
-              value: 150,
-              strokeHeight: 5,
+              "name": 'Expected',
+              "value": 10,
+              "strokeHeight": 5,
             }
           ]
         },
