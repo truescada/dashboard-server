@@ -25,13 +25,13 @@
       "serverConnectivity": true
     },
     "alerts": {
-      "data": [2,1,3,5]
+      "data": [2, 1, 3, 5]
     },
     "tickets": {
-      "data": [3,5,4,8]
+      "data": [3, 5, 4, 8]
     },
     "input": {
-       "data": [
+      "data": [
         {
           "x": "Press Mud",
           "y": 25,
@@ -44,7 +44,7 @@
           ]
         },
         {
-          "x":  "Poultry Waste",
+          "x": "Poultry Waste",
           "y": 14,
           "goals": [
             {
@@ -88,45 +88,6 @@
           ]
         }
       ]
-    },
-    "powerConsumption": {
-      "data" : [
-    {
-      "type": "column",
-      "name": "Feeding",
-      "data": [140, 315, 343, 171, 274, 333],
-    },
-    {
-      "type": "column",
-      "name": "Pretreatment",
-      "data": [233, 422, 295, 270, 435, 220],
-    },
-    {
-      "type": "column",
-      "name": "Digester",
-      "data": [310, 125, 350, 231, 300, 422],
-    },
-    {
-      "type": "column",
-      "name": "Purification",
-      "data": [122, 144, 356, 277, 230, 228],
-    },
-    {
-      "type": "column",
-      "name": "Compression",
-      "data": [375, 237, 250, 221, 613, 172],
-    },
-    {
-      "type": "column",
-      "name": "Utility",
-      "data": [300, 428, 590, 288, 533, 427],
-    },
-    {
-      "name": "Total",
-      "type": "line",
-      "data": [1480, 1839, 2397, 1458, 2385, 1802],
-    },
-  ]
     }
   },
   "weekly": {
@@ -155,13 +116,13 @@
       "serverConnectivity": true
     },
     "alerts": {
-      "data": [6,5,8,5]
+      "data": [6, 5, 8, 5]
     },
     "tickets": {
-      "data": [13,15,41,28]
+      "data": [13, 15, 41, 28]
     },
-     "input": {
-       "data": [
+    "input": {
+      "data": [
         {
           "x": "Press Mud",
           "y": 125,
@@ -174,7 +135,7 @@
           ]
         },
         {
-          "x":  "Poultry Waste",
+          "x": "Poultry Waste",
           "y": 140,
           "goals": [
             {
@@ -220,7 +181,7 @@
       ]
     }
   },
-   "monthly": {
+  "monthly": {
     "biogasProduction": {
       "label": "10000Kg",
       "series": 45
@@ -246,13 +207,13 @@
       "serverConnectivity": true
     },
     "alerts": {
-      "data": [16,15,81,100]
+      "data": [16, 15, 81, 100]
     },
     "tickets": {
-      "data": [130,125,419,238]
+      "data": [130, 125, 419, 238]
     },
-     "input": {
-       "data": [
+    "input": {
+      "data": [
         {
           "x": "Press Mud",
           "y": 2500,
@@ -265,7 +226,7 @@
           ]
         },
         {
-          "x":  "Poultry Waste",
+          "x": "Poultry Waste",
           "y": 4514,
           "goals": [
             {
@@ -337,13 +298,13 @@
       "serverConnectivity": true
     },
     "alerts": {
-      "data": [2500,5150,6810,5540]
+      "data": [2500, 5150, 6810, 5540]
     },
     "tickets": {
-      "data": [1350,1257,4195,2383]
+      "data": [1350, 1257, 4195, 2383]
     },
-     "input": {
-       "data": [
+    "input": {
+      "data": [
         {
           "x": "Press Mud",
           "y": 25768,
@@ -356,7 +317,7 @@
           ]
         },
         {
-          "x":  "Poultry Waste",
+          "x": "Poultry Waste",
           "y": 12714,
           "goals": [
             {
