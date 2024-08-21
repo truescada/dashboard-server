@@ -288,43 +288,8 @@
     },
     "powerConsumption": {
       "data": [
-        {
-          "type": "column",
-          "name": "Feeding",
-          "data": [1415, 1341, 4351, 1137, 3321, 2010]
-        },
-        {
-          "type": "column",
-          "name": "Pretreatment",
-          "data": [2313, 4323, 2539, 2604, 4336, 1216]
-        },
-        {
-          "type": "column",
-          "name": "Digester",
-          "data": [3146, 2252, 3657, 3319, 3206, 5122]
-        },
-        {
-          "type": "column",
-          "name": "Purification",
-          "data": [1259, 5147, 3676, 2735, 3093, 5135]
-        },
-        {
-          "type": "column",
-          "name": "Compression",
-          "data": [4735, 5375, 5022, 6321, 4372, 3432]
-        },
-        {
-          "type": "column",
-          "name": "Utility",
-          "data": [5302, 4222, 5922, 6882, 5323, 4425]
-        },
-        {
-          "name": "Total",
-          "type": "line",
-          "data": [48042, 53926, 49753, 45826, 58543, 50252]
-        }
       ],
-      "categories": ["Mar, 2024", "Apr, 2024", "May, 2024", "Jun, 2024", "Jul, 2024", "Aug, 2024"]
+      "categories": []
     },
     "alerts": {
       "data": [16, 15, 81, 100]
