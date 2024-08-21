@@ -24,6 +24,45 @@
       "compression": false,
       "serverConnectivity": true
     },
+    "powerConsumption": {
+      "data": [
+        {
+          "type": "column",
+          "name": "Feeding",
+          "data": [140, 315, 343, 171, 274, 333]
+        },
+        {
+          "type": "column",
+          "name": "Pretreatment",
+          "data": [233, 422, 295, 270, 435, 220]
+        },
+        {
+          "type": "column",
+          "name": "Digester",
+          "data": [310, 125, 350, 231, 300, 422]
+        },
+        {
+          "type": "column",
+          "name": "Purification",
+          "data": [122, 144, 356, 277, 230, 228]
+        },
+        {
+          "type": "column",
+          "name": "Compression",
+          "data": [375, 237, 250, 221, 613, 172]
+        },
+        {
+          "type": "column",
+          "name": "Utility",
+          "data": [300, 428, 590, 288, 533, 427]
+        },
+        {
+          "name": "Total",
+          "type": "line",
+          "data": [1480, 1839, 2397, 1458, 2385, 1802]
+        }
+      ]
+    },
     "alerts": {
       "data": [2, 1, 3, 5]
     },
@@ -88,46 +127,7 @@
           ]
         }
       ]
-    },
-    "powerConsumption": {
-      "data": [
-        {
-          "type": "column",
-          "name": "Feeding",
-          "data": [140, 315, 343, 171, 274, 333]
-        },
-        {
-          "type": "column",
-          "name": "Pretreatment",
-          "data": [233, 422, 295, 270, 435, 220]
-        },
-        {
-          "type": "column",
-          "name": "Digester",
-          "data": [310, 125, 350, 231, 300, 422]
-        },
-        {
-          "type": "column",
-          "name": "Purification",
-          "data": [122, 144, 356, 277, 230, 228]
-        },
-        {
-          "type": "column",
-          "name": "Compression",
-          "data": [375, 237, 250, 221, 613, 172]
-        },
-        {
-          "type": "column",
-          "name": "Utility",
-          "data": [300, 428, 590, 288, 533, 427]
-        },
-        {
-          "name": "Total",
-          "type": "line",
-          "data": [1480, 1839, 2397, 1458, 2385, 1802]
-        }
-      ]
-    },
+    }
   },
   "weekly": {
     "biogasProduction": {
