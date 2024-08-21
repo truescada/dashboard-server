@@ -417,46 +417,6 @@
       "compression": false,
       "serverConnectivity": true
     },
-    "powerConsumption": {
-      "data": [
-        {
-          "type": "column",
-          "name": "Feeding",
-          "data": [14156, 13412, 43513, 11372, 33214, 20107]
-        },
-        {
-          "type": "column",
-          "name": "Pretreatment",
-          "data": [23132, 43235, 25392, 26904, 43336, 12146]
-        },
-        {
-          "type": "column",
-          "name": "Digester",
-          "data": [31464, 22524, 36570, 33196, 32036, 51232]
-        },
-        {
-          "type": "column",
-          "name": "Purification",
-          "data": [12593, 51467, 36766, 27635, 30693, 51535]
-        },
-        {
-          "type": "column",
-          "name": "Compression",
-          "data": [47335, 54375, 50522, 63321, 43372, 34132]
-        },
-        {
-          "type": "column",
-          "name": "Utility",
-          "data": [53021, 42222, 59322, 68282, 53223, 42425]
-        },
-        {
-          "name": "Total",
-          "type": "line",
-          "data": [48042, 53933, 49724, 45645, 58553, 50242]
-        }
-      ],
-      "categories": ["2019", "2020", "2021", "2022", "2023", "2024"]
-    },
     "alerts": {
       "data": [2500, 5150, 6810, 5540]
     },
